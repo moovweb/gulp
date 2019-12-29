@@ -48,6 +48,7 @@
     "istanbul": "^0.3.0",
     "jscs": "^2.3.5",
     "jscs-preset-gulp": "^1.0.0",
+    "marked": "^0.7.0",
     "marked-man": "^0.7.0",
     "mkdirp": "^0.5.0",
     "mocha": "^2.0.1",
